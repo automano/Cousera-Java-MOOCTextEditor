@@ -1,0 +1,13 @@
+
+** Test 1: Generating text before training...No error thrown. 
+** Test 2: Generating text after training on an empty file...No error thrown. 
+Generator produced: I I I I I like cats. cats. love I I love a text generator. I I cats. love. I I cats.  I I I a text generator. I I I I I I cats. I I cats. I I I I I like I love I a text generator. I I a text generator. I I I I I I I I I I I cats. I I like dogs. I I I cats. I I I I socks. I I I books. I I I I I I I I I I I love cats. I I I I I I I I I I love. I I I books. I like I I I I I I I love I I I love love I I socks. I I I I like I dogs. I I I I I love socks. I I I love I I I I I I cats. I I dogs. I like cats. I I I I I I hate books. I I love I I love  I I socks. I I I I I I I I I I love I love I hate I love I love I I I love I I love. I love am cats. cats. I I I cats. I I love cats. I I I hate I I I love I I I I I dogs. I I I I I hate I I I I I I I cats. I I love I I dogs. I I I I I love cats. I I love love I hate I love I love cats. I I cats. I I cats. I I love like cats. I I I I love cats. I I I love cats. I I I like cats. love I I I I I I I I love I I I socks. I love I love I I like dogs. I I I I I dogs. I I I I cats. love  I I dogs. I I I love love I I love. I I I I I I I I I love a text generator. I I I I I I dogs. I love I cats. I I a text generator. I I I I cats. I I I love I love I I cats.  I I like I I I I I I I I love. I I I I love love I I cats. love I I I I love. socks. cats. I I I a text generator. I I I I I I I cats. I I love a text generator. I I I cats. I I love I I I I dogs. I love I dogs. I I love I love love I I cats. I I like love. I I I I I books. I I I I I love hate I I I I I I I I I books. I I love dogs. I I I I I I love I love I I 
+
+** Test #3: Checking requested generator word count...Your generator produced 500 words. 
+** Test #4: Testing specific word counts...'I' appeared 343 times. 
+** Test #5: Checking that every word is used at least once...Done. 
+** Test 6: Seeing if last word is always followed by first word...Done. 
+** Test #7: Requesting zero words...Generator generated: . 
+** Test #8: Running train() on a generator that has already been trained...The word 'I' appears 334 times. 
+** Test #9: Testing retrain()...Text generated: . 
+Tests complete. Make sure everything looks right.
